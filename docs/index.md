@@ -1,4 +1,4 @@
-[DSC](./img/logo.png)
+[DSC](img/Logo.png)
 <br />
 The Google Developer student clubs ADGITM is a community creating a peer to peer 
 environment by bringing developers under one roof so that we connect, learn, and 
