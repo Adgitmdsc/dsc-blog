@@ -1,4 +1,4 @@
-site_name: Test docs
+site_name: DSC ADGITM BLOGS
 site_description: 'A docs test'
 site_author: 'Michael Hausenblas'
 docs_dir: docs/
@@ -8,3 +8,5 @@ nav:
     - Home: index.md
 theme:
   name: 'material'
+  
+extra_css: [extra.css]
